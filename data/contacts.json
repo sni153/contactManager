@@ -1,0 +1,44 @@
+[
+  {
+    "full_name": "fasd asdf",
+    "phone_number": "232323",
+    "email": "asdf@asdffasd",
+    "tags": "office, home",
+    "id": 2
+  },
+  {
+    "full_name": "afsd asdf",
+    "phone_number": "223232",
+    "email": "fasd@fads",
+    "tags": "",
+    "id": 3
+  },
+  {
+    "full_name": "fasd afsd",
+    "phone_number": "2323232",
+    "email": "asdf@fads",
+    "tags": "",
+    "id": 4
+  },
+  {
+    "full_name": "asfdfdsa sdfasd",
+    "phone_number": "2323232",
+    "email": "asdf@dfas",
+    "tags": "HOME",
+    "id": 5
+  },
+  {
+    "full_name": "STEPH CURRY",
+    "phone_number": "232323",
+    "email": "asdf@fasd",
+    "tags": "warrior",
+    "id": 6
+  },
+  {
+    "full_name": "steph curry",
+    "phone_number": "223323",
+    "email": "sadfdf@sadff",
+    "tags": "",
+    "id": 7
+  }
+]
